@@ -1,0 +1,27 @@
+/* Other rules */
+.headerbloc {
+  display: flex;
+  flex-direction: row;
+}
+
+.deconnect {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.connect {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.search {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  margin-left: 500px;
+  border-radius: 5px;
+}
